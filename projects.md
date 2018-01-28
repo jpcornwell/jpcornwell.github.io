@@ -7,7 +7,7 @@ permalink: /projects/
 This is the project page!
 
 <iframe
-	src="http://johnearnest.github.io/Octo/embed.html?scale=5&gist=cc531ca4aeadd584651a7a8a814c9fb7"
+	src="https://johnearnest.github.io/Octo/embed.html?scale=5&gist=cc531ca4aeadd584651a7a8a814c9fb7"
 	width="640"
 	height="320"
 ></iframe>
