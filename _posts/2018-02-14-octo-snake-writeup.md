@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Octo Snake Writeup"
-categories: games chip8 writeup
+categories: game chip8 writeup
 permalink: /octo-snake-writeup/
 ---
 
