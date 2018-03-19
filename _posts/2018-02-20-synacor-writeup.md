@@ -98,7 +98,7 @@ the space time continuum (or something like that). The only issue is that
 your teleporter is rather low-tech and will take about a billion years to
 run through the verification algorithm.
 
-#### Problem
+#### Solution
 Though the previous problem was a bit lackluster, this one more than makes
 up for it. The teleporter is definitely the most interesting (and most
 difficult) exercise in the entire challenge.
