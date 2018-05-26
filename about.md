@@ -4,6 +4,9 @@ title: About
 permalink: /about/
 ---
 
+About Me
+--------
+
 My name is Jacob Cornwell and I spend most of my time trying to learn new
 things.
 
@@ -14,6 +17,20 @@ certification of experimental type aircraft.
 Here is a link to my github profile.
 [https://github.com/jpcornwell](https://github.com/jpcornwell)
 
-To get an idea as to what you can expect from this website, refer to my 
-[very first post]({{ site.baseurl }}{% post_url 2018-01-21-first-post %}).
+About the Website
+-----------------
+
+On this website you can expect to see three main types of content. Writeups,
+demos, and articles.
+
+Writeups are for me and are basically a log of the various projects I tackle.
+This forces me to give a little bit of thought afterwards and the posts may
+prove to be interesting to look back on in the future.
+
+Demos will be my projects that are easily shown off through a browser. There
+might be some fun things like games.
+
+Articles will be in depth excursions into a given topic. They are again, mostly
+for me, to help solidify my understanding of the subject, but may end up being
+helpful to others too.
 
