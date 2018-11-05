@@ -10,9 +10,13 @@ About Me
 My name is Jacob Cornwell and I spend most of my time trying to learn new
 things.
 
-I currently work as a software engineer for the Bombardier Flight Test Center
-where I write and maintain mission critical software used for the testing and
+I used to work as a software engineer for the Bombardier Flight Test Center
+where I wrote and maintained mission critical software used for the testing and
 certification of experimental type aircraft.
+
+Now I work as a software engineer for NetApp on the E-Series Solutions team 
+where I get to investigate new ideas and technologies for the purpose of 
+boosting the value we provide to our customers.
 
 Here is a link to my github profile.
 [https://github.com/jpcornwell](https://github.com/jpcornwell)
