@@ -18,7 +18,7 @@ Now I work as a software engineer for NetApp on the E-Series Solutions team
 where I get to investigate new ideas and technologies for the purpose of 
 boosting the value we provide to our customers.
 
-Here is a link to my github profile.
+Here is a link to my GitHub profile.
 [https://github.com/jpcornwell](https://github.com/jpcornwell)
 
 About the Website
