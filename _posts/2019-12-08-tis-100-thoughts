@@ -1,0 +1,51 @@
+---
+layout: post
+title:  "Thoughts on TIS-100"
+categories: challenge
+permalink: /tis-100-thoughts/
+---
+
+The other weekend I finally finished up a game called TIS-100. I've been
+playing around with it from time to time for the last several months and it is
+quite fun. Now, to help me get back into the habit of writing posts for this
+website, I thought I'd go ahead and jot down some of my thoughts on the overall
+experience.
+
+If the reader wants a more in depth overview of the game, they can of course
+find it in other articles and posts, but suffice it to say, TIS-100 is an
+exercise in programming within an extremely limited environment. This computing
+machine that the player has the pleasure to program against consists of a two
+dimensional grid of cores. Each of these cores contains two registers, a memory
+bank that can hold up to 15 assembly like instructions, and the ability to pass
+messages to adjacent cores. This actually doesn't sound too bad, but very
+quickly you will begin to run into deadlocks and a shortage of places to store
+your data. That is, until you learn the basic techniques required to cope with
+this alien architecture.
+
+So the first thing I would note of this game, is that it is very free-form. It
+really is up to the player on how they decide to play. One can play the game
+simply to solve the various puzzles, or one can try to optimize their solutions
+using different criterion such as speed or code size. I personally opted to
+just solve the puzzles and move on. That being said, I am definitely
+considering looking into optimization techniques that can be applied to this
+system and then do subsequent posts on any interesting topics that come about.
+
+As far as difficulty goes, it really isn't too bad. The first half is pretty
+simple. I found myself kind of randomly typing until it worked. The later
+levels however, are much more interesting. These are complex enough that they
+will require you to plan ahead. In fact, you will most likely start to
+recognize patterns and will resort to using techniques that you discovered from
+previous levels. None of this is prompted, which again emphasizes the free-form
+nature of this game. You will learn how to tackle the challenges presented to
+you, and it will be completely of your own accord. If you are a programmer, you
+won't have any real difficulties getting through this. You may need to take a
+break and come back in a day or two with a fresh mind, but you shouldn't ever
+get completely stumped.
+
+That being said, the creators of the game have bestowed upon us an expansion
+pack with additional levels that ramp up the difficulty. I haven't started
+these yet, but I have heard that they include tasks such as prime factorization
+and sorting sequences that don't fit in a stack node.
+
+My initial run through of TIS-100 was fun, and I'm looking forward to
+further exploring what this game has to offer.
