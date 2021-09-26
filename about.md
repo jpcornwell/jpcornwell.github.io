@@ -7,16 +7,17 @@ permalink: /about/
 About Me
 --------
 
-My name is Jacob Cornwell and I spend most of my time trying to learn new
-things.
+My name is Jacob Cornwell.
 
 I used to work as a software engineer for the Bombardier Flight Test Center
 where I wrote and maintained mission critical software used for the testing and
 certification of experimental type aircraft.
 
-Now I work as a software engineer for NetApp on the E-Series Solutions team 
-where I get to investigate new ideas and technologies for the purpose of 
-boosting the value we provide to our customers.
+Now I work for NetApp. When I first joined, I contributed to the E-Series
+product line, which is a SAN storage platform that delivers the best price for
+performance ratio in the world. Several years later I switched over to the
+company's flagship product, ONTAP, which is a highly specialized operating
+system for storage servers and cloud.
 
 Here is a link to my GitHub profile.
 [https://github.com/jpcornwell](https://github.com/jpcornwell)
